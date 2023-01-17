@@ -1,11 +1,5 @@
 [
     {
-        "nombre": "Netflix",
-        "mes": "$3.000",
-        "tresMeses": "No disponible",
-        "cuatromeses":"NO disponible"
-    },
-    {
         "nombre": "AmazonPrimeVideo",
         "mes": "$2.000",
         "tresMeses": "$5.000",
