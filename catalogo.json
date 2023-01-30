@@ -60,15 +60,9 @@
     },
     {
         "nombre": "IPTV",
-        "mes": "$5000",
-        "tresMeses": "$8.000",
-        "cuatromeses":"$18.000"
-    },
-    {
-        "nombre": "Directv",
-        "mes": "$5000",
-        "tresMeses": "No disponible",
-        "cuatromeses":"No disponible"
+        "mes": "$7.000",
+        "tresMeses": "$13.000",
+        "cuatromeses":"$40.000"
     },
     {
         "nombre": "AppleMusic",
